@@ -164,8 +164,8 @@ categorias
 Crear un archivo `.env` en la raíz del proyecto:
 
 ```env
-VITE_SUPABASE_URL=TU_URL_DE_SUPABASE
-VITE_SUPABASE_ANON_KEY=TU_ANON_KEY
+VITE_SUPABASE_URL=https://qrnhrrlufjhsqvyewsem.supabase.co
+VITE_SUPABASE_ANON_KEY=sb_publishable_wiqDtHGL6wrMZbskg4-UQg_QFIB90oh
 ```
 
 ---
@@ -201,8 +201,8 @@ Crear archivo:
 y agregar:
 
 ```env
-VITE_SUPABASE_URL=TU_URL
-VITE_SUPABASE_ANON_KEY=TU_KEY
+VITE_SUPABASE_URL=https://qrnhrrlufjhsqvyewsem.supabase.co
+VITE_SUPABASE_ANON_KEY=sb_publishable_wiqDtHGL6wrMZbskg4-UQg_QFIB90oh
 ```
 
 ### 5. Ejecutar proyecto
@@ -220,16 +220,16 @@ El proyecto utiliza:
 - Supabase Auth
 - Row Level Security (RLS)
 - Rutas protegidas mediante ProtectedRoute
+- Admin datos, correo: admin@gmail.com pass: 123456
 
 ---
 
 ## Integrantes
 
-- Integrante 1
-- Integrante 2
-- Integrante 3
-- Integrante 4
-- Integrante 5
+- Paul Ángel Sandoval Ortega
+- Gabriel Elvis Solano Cruz
+- Josue Samuel Vargas Gutiérrez
+
 
 ---
 
