@@ -21,7 +21,6 @@ El sistema permite visualizar el menú de platos de una churrasquería, consulta
 
 ### Usuarios
 
-- Registro de usuarios
 - Inicio de sesión
 - Cierre de sesión
 - Acceso a rutas protegidas
